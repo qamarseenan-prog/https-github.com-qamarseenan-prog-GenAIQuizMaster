@@ -1,0 +1,5 @@
+{
+  "name": "GenAI Quiz Master",
+  "description": "A dynamic, AI-powered quiz application that generates unique trivia questions on any topic you choose.",
+  "requestFramePermissions": []
+}
